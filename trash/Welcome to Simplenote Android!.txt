@@ -1,0 +1,18 @@
+Welcome to Simplenote Android!
+Open this note for instructions.
+
+To create a new note, tap the blue "New Note" button with the plus icon.
+
+To search your notes, tap the "Search" button with the magnifying glass icon and enter any text. Simplenote will show you recent searches initially and suggested searches while entering text. Notes matching the entered text will be shown once the search is submitted.
+
+Got a really important note? Pin it to the top of the note list. You can pin a note in two ways. Long-press the note in the list and tap the "Pin to top" button with the pin icon. Tap the "More Options" button with the three vertical dots icon while viewing a note and check the "Pin" box.
+
+Use tags to help organize your notes. Create a tag in the "Add tag…" field at the bottom of a note. You can also add an email address as a tag to share a note with someone.
+
+Easily share notes with other Android apps by tapping "Share" in the "More Options" menu while viewing a note.
+
+Deleted notes go in the trash. You can restore them if you want, or empty the trash to get rid of them forever.
+
+You can access your notes on the web and your other devices. Go to http://simplenote.com to get started.
+
+We hope you enjoy using Simplenote!
